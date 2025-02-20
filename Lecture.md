@@ -57,4 +57,12 @@ Git now tracks changes to your project files. But, since you just created the re
 
 your code is not in it. To do this, you need to create a commit.
 
+# What is repository?
+
+A repository is the most basic element of GitHub. It's a place where you can store your code, 
+
+your files, and each file's revision history. Repositories can have multiple collaborators and 
+
+can be either public or private.
+
 Great. You've created your first repository and populated it with your first commit.
